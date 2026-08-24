@@ -7,3 +7,12 @@ I explored these questions through Bayesian calibration and uncertainty quantifi
 This model is based on the Cahn-Hilliard partial differential equation that models the evolution of self-assembling nanoscale block copolymers.  
 We investigated calibrating the unknown parameters of this equation to Molecular Dynamics data, of which we only had 5 simulations.  Therefore, we also wanted to quantify uncertainty about the calibration. 
 We accomplished this through Bayesian calibration and Markov Chain Monte Carlo techniques.  
+
+
+This repo contains
+- Report
+- Poster
+- Ensemble of simulations from the Cahn-Hilliard surrogate model (Spectral solver implemented in C++)
+- List view of simulation final states.  
+- A sample pairs plot (information about correlation between parameters)
+- Sample posterior chains over one parameter.  
