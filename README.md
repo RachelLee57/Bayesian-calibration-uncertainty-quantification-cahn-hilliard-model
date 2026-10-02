@@ -1,4 +1,4 @@
-Check out my report!  (First pdf link)
+Check out my report "Bayesian calibration of a Cahn-Hilliard model"  (First pdf link)!  
 
 Questions I explored: 
 1. Can we create a more efficient, simplified model for a complex system that still accurately captures the physics of the system?
