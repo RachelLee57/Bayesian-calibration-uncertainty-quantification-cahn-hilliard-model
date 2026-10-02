@@ -1,3 +1,5 @@
+Check out my report!  (First pdf link)
+
 Questions I explored: 
 1. Can we create a more efficient, simplified model for a complex system that still accurately captures the physics of the system?
 2. How can we make decisions when we have limited and sparse data?
