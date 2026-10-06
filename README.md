@@ -1,8 +1,8 @@
-Check out my report "Bayesian calibration of a Cahn-Hilliard model"  (First pdf link)!  
+Check out my report "Bayesian calibration of a Cahn-Hilliard model" 
 
 Questions I explored: 
 1. Can we create a more efficient, simplified model for a complex system that still accurately captures the physics of the system?
-2. How can we make decisions when we have limited and sparse data?
+2. How can we make better decisions when we have limited and sparse data?
 3. Considering model misspecification, how confident can we be in our model if we want to make better decisions?
 
 I explored these questions through Bayesian calibration and uncertainty quantification of a Cahn-Hilliard surrogate model.  
