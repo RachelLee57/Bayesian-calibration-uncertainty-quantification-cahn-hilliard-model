@@ -28,3 +28,5 @@ Brookhaven National Laboratory:  https://www.bnl.gov/compsci/mathematics/applied
 Sandia National Laboratory:  https://www.sandia.gov/app/uploads/sites/127/2024/09/M2dt_poster_sept_2024.pdf 
 
 University of Texas:  https://m2dt.oden.utexas.edu/ 
+
+This work was supported in part by the U.S. Department of Energy, Office of Science, Office of Workforce Development for Teachers and Scientists (WDTS) under the Science Undergraduate Laboratory Internships (SULI) program.
